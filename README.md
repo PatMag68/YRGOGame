@@ -1,3 +1,3 @@
 # YRGOGame
 Stone scissors paper game
-For the teacher to check
+<br>For the teacher to check
